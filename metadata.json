@@ -1,0 +1,8 @@
+{
+  "name": "Next Billionaire Path",
+  "description": "Making the Root Money Deep Man",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
